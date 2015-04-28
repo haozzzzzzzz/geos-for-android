@@ -1,4 +1,4 @@
-# geos-for androi
+# geos-for android
 # by haozi.
 #
 
