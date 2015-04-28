@@ -2,7 +2,7 @@
 # by haozi.
 #
 
-Flow these step below to build your geos's static library for android:
+Flow these steps below to build your geos's static library for android:
 
 1. Download GEOS and extract it to this directory.
 2. Open Terminal and run "./configure --build=x86_64-pc-linux-gnu --host=arm-linux-eabi"
