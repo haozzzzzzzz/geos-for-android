@@ -1,6 +1,6 @@
-# geos-for android
-# by haozi.
-#
+# @brief : geos for android
+# @author : haozi.
+# @date : 2015/04/29
 
 Flow these steps below to build your geos's static library for android:
 
